@@ -9,7 +9,7 @@ I made sure I fixed a couple of mistypes, which doesn't allow the script to work
 
 ## Getting Started
 
-Get a cup of tee or cofee.
+Get a cup of tee or coffee.
 
 ### Dependencies
 
@@ -26,13 +26,6 @@ Get a cup of tee or cofee.
 ```
 python chat.py
 python chat_ntlk.py
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
